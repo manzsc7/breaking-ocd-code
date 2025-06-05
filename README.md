@@ -13,7 +13,7 @@
 **JURISDICTION**: Xiangtan, Hunan Province, China  
 **ENFORCEMENT CONTACT**: zscomn3@sina.com  
 **EFFECTIVE DATE**: June 1, 2025  
-
+LEGAL VALIDITY: Enforced until December 31, 2045 (Copyright Law Art.21)
 **Verification Code**: Guo Zuo Deng Zi-2025-A-00046469
 
 ![Jurisdiction Marker](https://img.shields.io/badge/Jurisdiction-Xiangtan,_China-blue)
