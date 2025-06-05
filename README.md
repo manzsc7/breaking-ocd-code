@@ -1,30 +1,19 @@
-OFFICIAL COPYRIGHT ENFORCEMENT NOTICE
+# LEGAL NOTICE REPOSITORY
 
-**Authorized Work**: 
-Breaking the OCD Code: Revised First Edition
+## COPYRIGHT ENFORCEMENT DECLARATION
+**Authorized Work**: Breaking the OCD Code (Revised First Edition)  
+**Terminated Edition**: ISBN 9798230381310 (VOID since May 31, 2025)  
+**Registration**: Guo Zuo Deng Zi-2025-A-00046469 (China)  
 
-**Terminated Edition**: 
-ISBN 9798230381310 (VOID since May 31, 2025)  <!-- 已修正 -->
+**COMPLIANCE DEMANDS**:  
+1. Immediate delisting of terminated edition  
+2. Block unauthorized derivatives  
+3. Preserve transaction records  
 
-**Registration**: 
-Guo Zuo Deng Zi-2025-A-00046469 (China)
+**JURISDICTION**: Xiangtan, Hunan Province, China  
+**ENFORCEMENT CONTACT**: zscomn3@sina.com  
+**EFFECTIVE DATE**: June 1, 2025  
 
-**COMPLIANCE DEMANDS**:
-1. Immediate delisting of terminated edition
-2. Block unauthorized derivatives
-3. Preserve transaction records (minimum 2 years)  <!-- 保留期限明确 -->
+**Verification Code**: Guo Zuo Deng Zi-2025-A-00046469
 
-**JURISDICTION**:
-Xiangtan Intellectual Property Court (Yuhu District), Hunan, China  <!-- 精确管辖 -->
-
-**ENFORCEMENT CONTACT**:
-zscomn3@sina.com  <!-- 统一邮箱格式 -->
-
-**EFFECTIVE DATE**:
-June 1, 2025
-
-**Legal Validity**:
-Enforced until December 31, 2045 (Copyright Law Art.21)
-
-Verification Code: 
-Guo Zuo Deng Zi-2025-A-00046469
+![Jurisdiction Marker](https://img.shields.io/badge/Jurisdiction-Xiangtan,_China-blue)
